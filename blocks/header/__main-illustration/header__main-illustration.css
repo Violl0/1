@@ -1,0 +1,11 @@
+.header__main-illustration {
+  object-fit: contain;
+  position: absolute;
+  width: 925px;
+  height: 780px;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  background-image: url("../../../images/cube.png");
+  background-size: 1500px 1190px;
+}

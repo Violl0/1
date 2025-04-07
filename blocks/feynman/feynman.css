@@ -1,0 +1,12 @@
+.feynman {
+  position: relative;
+  margin-bottom: 50px;
+  min-height: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  background-color: #f2f2f2;
+  background-image: url("../../images/джеси.png");
+  background-repeat: no-repeat;
+  background-position: left 0 bottom 0;
+}
